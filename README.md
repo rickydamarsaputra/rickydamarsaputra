@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricky Damar Saputra</h1>
 <h3 align="center">I'm a junior web developer, I love helping people learn programming, I'm a web programmer from Indonesia, nice to meet you</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickydamarsaputra" alt="rickydamarsaputra" /> </p>
+
 - I'm create corona tracker with react and tailwindcss [Wulan Corona Tracker](https://react-app-a6cd3.web.app/)
 
 - I'm create Spp Payment with Laravel and hosting into heroku [Wulan Spp Payment](http://laravel-heroku-spp.herokuapp.com/)
