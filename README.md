@@ -7,7 +7,7 @@
 
 - 🤝I'm try to clone website WPU and rebuild this with tailwindcss [Wulan Unpas](https://wulan-unpas.netlify.app/)
 
-- 🙉 You can see my portofolio website in [https://rickydamar.vercel.app](rickydamar.vercel.app)
+- 🙉 You can see my portofolio website in [rickydamar.vercel.app](https://rickydamar.vercel.app)
 
 - 💬 Ask me about **react, laravel, tailwindcss**
 
