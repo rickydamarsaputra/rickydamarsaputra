@@ -1,26 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ricky Damar Saputra</h1>
-<h3 align="center">I'm a junior web developer, I love helping people learn programming, I'm a web programmer from Indonesia, nice to meet you</h3>
+## hello friend 🐱‍👤👋
 
-- 🦠 I'm create corona tracker with react and tailwindcss [Wulan Corona Tracker](https://react-app-a6cd3.web.app/)
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="depressed monkey" width="100%"/>
 
-- 🧧 I'm create Spp Payment with Laravel and hosting into heroku [Wulan Spp Payment](http://laravel-heroku-spp.herokuapp.com/)
+I am Ricky Damar Saputra, a full-stack developer and frontend developer. I am focus is on web development, but he also has experience in backend development.
 
-- 🤝I'm try to clone website WPU and rebuild this with tailwindcss [Wulan Unpas](https://wulan-unpas.netlify.app/)
+I am passionate about making things that work well and are easy to use. In particular, he loves the concept of minimalism: projects should be as clean and simple as     possible, while still being powerful enough to do what they need to do.
 
-- 🙉 You can see my portofolio website in [rickydamar.vercel.app](https://rickydamar.vercel.app)
+In his free time (which isn't much), i am enjoys reading manga on his phone and watching anime 🎌.
 
-- 💬 Ask me about **react, laravel, tailwindcss**
+You can find me on GitHub: [https://github.com/rickydamarsaputra](https://github.com/rickydamarsaputra)
 
-- 📫 How to reach me **retrocode.rc@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://web.facebook.com/rickydamar.saputra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ricky damar saputra" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ricky-damar-saputra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricky damar saputra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+```json
+{
+  "status": 200,
+  "data": {
+    "website": "https://rickydamar.vercel.app",
+    "media_social": [
+      "github": "https://github.com/rickydamarsaputra",
+      "linkedin": "https://www.linkedin.com/in/ricky-damar-saputra",
+      "instagram": "https://instagram.com/rickydamarsaputra",
+      "facebook": "https://facebook.com/rickydamar.saputra",
+      "showwcase": "https://www.showwcase.com/rickydamarsaputra"
+    ],
+    "learn_profile": [
+      "freecodecamp": "https://www.freecodecamp.org/rickydamarsaputra",
+      "dicoding": "https://www.dicoding.com/users/rickydamarsaputra",
+      "hackerrank": "https://www.hackerrank.com/retrocode_rc"
+    ],
+    "skills": {
+      "frontend": ["HTML5", "CSS3", "Javascript", "Bootstrap", "Tailwindcss", "ReactJS", "NextJS", "VueJS"],
+      "backend": ["PHP", "NodeJS", "Laravel", "Codeigniter", "ExpressJS"],
+      "databases": ["MYSQL", "MariaDB", "MongoDB", "Firebase", "Oracle", "PostgreSQL (Supabase)"],
+      "other_tools": ["Visual studio code", "Laragon", "Postman", "Figma", "Git"],
+      "other_stack": ["WordPress", "Strapi", "Contentful", "NPM", "Composer"],
+      "hosting": ["Cpanel", "Vercel", "Netlify", "Heroku", "Github pages"],
+      "mobile": ["React native (learning)", "Flutter (learning)"]
+    },
+    "best_recommended_youtube_channel": [
+      "Web Programming UNPAS": "https://www.youtube.com/c/WebProgrammingUNPAS",
+      "Programmer Zaman Now": "https://www.youtube.com/c/ProgrammerZamanNow",
+      "The Net Ninja": "https://www.youtube.com/c/TheNetNinja",
+      "Traversy Media": "https://www.youtube.com/c/TraversyMedia"
+    ]
+  },
+  "errors": null
+}
+```
