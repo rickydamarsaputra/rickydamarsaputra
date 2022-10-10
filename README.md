@@ -46,3 +46,8 @@ You can find me on GitHub: [https://github.com/rickydamarsaputra](https://github
   "errors": null
 }
 ```
+
+## weeb event achievement 🏯🎌
+
+- [UTSURU 2022 (Mall Dinoyo City, Malang)](https://www.instagram.com/p/CjTsOtKBErM)
+<img src="https://i.postimg.cc/NjBjczCC/310361404-1206886693224311-2582064206542672658-n-fococlipping-standard.png" alt="UTSURU 2022 (Mall Dinoyo City, Malang)" width="80"/>
