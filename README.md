@@ -17,6 +17,7 @@ You can find me on GitHub: [https://github.com/rickydamarsaputra](https://github
     "website": "https://rickydamar.vercel.app",
     "media_social": [
       "github": "https://github.com/rickydamarsaputra",
+      "gitlab": "https://gitlab.com/rickydamarsaputra",
       "linkedin": "https://www.linkedin.com/in/ricky-damar-saputra",
       "instagram": "https://instagram.com/rickydamarsaputra",
       "facebook": "https://facebook.com/rickydamar.saputra",
