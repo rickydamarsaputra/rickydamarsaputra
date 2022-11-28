@@ -52,3 +52,6 @@ You can find me on GitHub: [https://github.com/rickydamarsaputra](https://github
 
 - [UTSURU 2022 (Mall Dinoyo City, Malang)](https://www.instagram.com/p/CjTsOtKBErM)
 <img src="https://i.postimg.cc/NjBjczCC/310361404-1206886693224311-2582064206542672658-n-fococlipping-standard.png" alt="UTSURU 2022 (Mall Dinoyo City, Malang)" width="80"/>
+
+- [🏮Japan Pop Culture 2022 A New World🏮 (UNESA, Kampus Lidah Wetan, Fakultas Bahasa dan Seni, Surabaya)](https://www.instagram.com/p/ClCuYY1Sfiw)
+<img src="https://i.postimg.cc/T3pwP1Gg/IMG-20221128-084605-1-removebg-preview-1.png" alt="🏮Japan Pop Culture 2022 A New World🏮 (UNESA, Kampus Lidah Wetan, Fakultas Bahasa dan Seni, Surabaya)" width="50"/>
