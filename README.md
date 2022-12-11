@@ -55,3 +55,6 @@ You can find me on GitHub: [https://github.com/rickydamarsaputra](https://github
 
 - [🏮Japan Pop Culture 2022 A New World🏮 (UNESA, Kampus Lidah Wetan, Fakultas Bahasa dan Seni, Surabaya)](https://www.instagram.com/p/ClCuYY1Sfiw)
 <img src="https://i.postimg.cc/T3pwP1Gg/IMG-20221128-084605-1-removebg-preview-1.png" alt="🏮Japan Pop Culture 2022 A New World🏮 (UNESA, Kampus Lidah Wetan, Fakultas Bahasa dan Seni, Surabaya)" width="50"/>
+
+- [🎉CHOCO DAYS 🎉 (Balai Pemuda, Surabaya)](https://www.instagram.com/p/Cl2xgx7JEQC)
+<img src="https://i.postimg.cc/43rhxyd5/removal-ai-tmp-6395bc1d7715d-1.png" alt="🎉CHOCO DAYS 🎉 (Balai Pemuda, Surabaya)" width="50"/>
